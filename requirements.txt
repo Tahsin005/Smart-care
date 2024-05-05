@@ -7,6 +7,7 @@ Django
 django-crispy-forms
 django-email
 django-environ
+djangorestframework
 EasyProcess
 entrypoint2
 filelock
@@ -33,4 +34,3 @@ typing_extensions
 tzdata
 virtualenv
 virtualenvwrapper-win
-djangorestframework
